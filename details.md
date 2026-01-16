@@ -2,8 +2,6 @@ class: middle, center, title-slide
 
 # Нейронні мережі
 
-Весна, 2025
-
 <br><br>
 Кочура Юрій Петрович<br>
 [iuriy.kochura@gmail.com](mailto:iuriy.kochura@gmail.com) <br>
